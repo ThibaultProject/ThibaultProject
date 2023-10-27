@@ -4,6 +4,10 @@
 
  📫 Contactez-moi sur **th.digiannantonio@gmail.com**
 
+### Me retrouver
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)]((https://www.linkedin.com/in/thibault-di-giannantonio/))
+[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/ThibaultProject/)
+
 ## Languages et outils
 
 
