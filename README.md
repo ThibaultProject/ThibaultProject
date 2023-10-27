@@ -11,11 +11,11 @@
 ## My toolbox & Languages 
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C#-000?&logo=C#)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
@@ -32,6 +32,12 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+
+## Learning and Improving
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![R](https://img.shields.io/badge/-R-000?&logo=R)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)
+![.NET](https://img.shields.io/badge/.NET-000?&logo=.net)
 
 <!--
 **ThibaultProject/ThibaultProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
