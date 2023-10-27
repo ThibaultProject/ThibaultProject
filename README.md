@@ -6,7 +6,7 @@
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)]((https://www.linkedin.com/in/thibault-di-giannantonio/))
-[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/ThibaultProject/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/ThibaultProject/)
 
 ## My toolbox & Languages 
 
@@ -39,18 +39,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)
 ![.NET](https://img.shields.io/badge/.NET-000?&logo=.net)
 
-<!--
-**ThibaultProject/ThibaultProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+[![SimulateurAvion](https://img.shields.io/badge/-✈️%20Simulation%20of%20Air%20Traffic%20Control-000)](https://github.com/ThibaultProject/Simulation-of-Air-Traffic-Control)
+[![Cluedo](https://img.shields.io/badge/-🕵️%20Cluedo-000)](https://github.com/ThibaultProject/Cluedo)
+[![MarketPlace](https://img.shields.io/badge/-🛒%20Marketplace-000)](https://github.com/ThibaultProject/ECE-Shopping---Java-Shopping-Cart-System)
 
