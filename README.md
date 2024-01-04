@@ -5,7 +5,7 @@
  📫 Contact me on **th.digiannantonio@gmail.com**
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)]((https://www.linkedin.com/in/thibault-di-giannantonio/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/thibault-di-giannantonio/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/ThibaultProject/)
 
 ## My toolbox & Languages 
